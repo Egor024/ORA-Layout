@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\work\OraForms\TestStartCard.dfm=C:\work\OraForms\StartCardTest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,C:\work\OraForms\TestStartCard.pas=C:\work\OraForms\StartCardTest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\work\OraForms\StartCard.dfm=C:\work\OraForms\StartCardTest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\work\OraForms\StartCard.pas=C:\work\OraForms\StartCardTest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,C:\work\PowerMDI\DevExRus100Proc.ini=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,=C:\work\OraForms\DevExRus100Proc.ini</Transaction>
+  </Transactions>
+</BorlandProject>
